@@ -72,7 +72,7 @@ target/
 # Spyder
 .spyproject/
 
-# Using Juptext so only .py files
+# Using Jupytext so only .py files
 *.ipynb 
 
 # Jupyter NB Checkpoints
